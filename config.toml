@@ -1,0 +1,4 @@
+baseURL = "https://lgq1015.github.io/"
+languageCode = "zh-Hans"
+title = "萁萁的博客"
+theme = "ananke"
